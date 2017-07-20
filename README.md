@@ -9,6 +9,6 @@ melyeknek a sémáját itt dokumentáljuk:
 items:
     - name: <Név>
       url: <URL>
-      purchased: <Mikor rendelted>
-      arrived: <Mikor érkezett meg>
+      purchased: <Mikor rendelted %F formátum ~ 2017-11-23 (man 1 date)>
+      arrived: <Mikor érkezett meg %F formátum ~ 2017-11-23 (man 1 date)>
 ```
